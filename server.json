@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "",
+      "name": "lazanha de bebe",
+      "price": "50.00",
+      "description": "lazanha de be",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "description": "",
+      "available": true,
+      "id": 5
     }
   ]
 }
